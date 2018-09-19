@@ -1,3 +1,5 @@
 1、cascade R-CNN：https://zhuanlan.zhihu.com/p/35882192；使用相同的first stage， 级联多个second stage，使用不同的IOU等参数，来提升效果。
 
 2、ALFNET：https://zhuanlan.zhihu.com/p/44796359；像cascade R-CNN样，在SSD上使用实现多步预测，同时时间没有太多增加。
+
+3、一篇目标检测方面的综述：https://zhuanlan.zhihu.com/p/40047760
